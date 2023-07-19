@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavennesh&label=Profile%20views&color=0e75b6&style=flat" alt="kavennesh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kavennesh_bv" target="blank"><img src="https://img.shields.io/twitter/follow/kavennesh_bv?logo=twitter&style=for-the-badge" alt="kavennesh_bv" /></a> </p>
+
 
 - 🔭 I’m currently working on **Figma**
 
@@ -14,6 +14,7 @@
 - 💬 Ask me about **Linux and Adobe XD**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/kavennesh_bv" target="blank"><img src="https://img.shields.io/twitter/follow/kavennesh_bv?logo=twitter&style=for-the-badge" alt="kavennesh_bv" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/kavennesh_bv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavennesh_bv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kavennesh b v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavennesh b v" height="30" width="40" /></a>
