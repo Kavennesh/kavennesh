@@ -1,34 +1,129 @@
-<h1 align="center">Hi 👋, I'm Kavennesh B V</h1>
-<h3 align="center">A passionate frontend developer and UI/UX Designer from India</h3>
+<div align="center">
+<img src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavennesh&label=Profile%20views&color=0e75b6&style=flat" alt="kavennesh" /> </p>
+### <div align="center">I'm Kavennesh B V, a full-time Cyber Security researcher and UI/UX developer 👨‍💻🚀</div>  
+  
+
+- 🔭 I’m currently working on Figma and Linux  
+  
+
+- 🌱 I’m currently learning Eithical Hacking and Crypto Mining  
+  
+
+- ❓ Ask me about anything related to Designing and Cyber technologies  
+  
+
+- ⚡ Fun fact: A PUBG player 🔫🔫  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
 
-- 🔭 I’m currently working on **Figma**
+### Frontend  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
 
-- 🌱 I’m currently learning **Cyber Security**
+</td><td valign="top" width="33%">
 
-- 🤝 I’m looking for help with **Cyber Security and Designing**
 
-- 💬 Ask me about **Linux and Adobe XD**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/kavennesh_bv" target="blank"><img src="https://img.shields.io/twitter/follow/kavennesh_bv?logo=twitter&style=for-the-badge" alt="kavennesh_bv" /></a> </p>
-<p align="left">
-<a href="https://twitter.com/kavennesh_bv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavennesh_bv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kavennesh b v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavennesh b v" height="30" width="40" /></a>
-<a href="https://instagram.com/_kavennesh_balachandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kavennesh_balachandar" height="30" width="40" /></a>
-</p>
+### Backend  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</td><td valign="top" width="33%">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kavennesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kavennesh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavennesh&show_icons=true&locale=en&layout=compact" alt="kavennesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavennesh&show_icons=true&locale=en" alt="kavennesh" /></p>
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavennesh&" alt="kavennesh" /></p>
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/Kavennesh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://instagram.com/_kavennesh_balachandar_?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/kavennesh_bv?t=w3whATntkl-nBuKxtvSJTQ&s=09" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavennesh-b-v-144654211/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kavennesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Kavennesh&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+<img src="data:image/png;base64,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" align="center" height="" width="" />
+</div>  
+  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kavennesh" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
