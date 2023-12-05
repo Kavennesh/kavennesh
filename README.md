@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to Designing and Cyber technologies  
   
 
-- ⚡ Fun fact: A PUBG player 🔫🔫  
+- ⚡ Fun fact: A part time Gamer 🔫🔫  
   
 
 <br/>  
