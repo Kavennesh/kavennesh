@@ -1,4 +1,4 @@
-### <div align="center">I'm Kavennesh B V, a full-time Cyber Security researcher and UI/UX developer 👨‍💻🚀</div>  
+### <div align="center">I'm Kavennesh B V, a full-time Garduate Cyber Security Student @FIU👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently working on Figma and Linux  
