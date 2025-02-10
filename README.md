@@ -1,93 +1,51 @@
-### <div align="center">I'm Kavennesh B V, a full-time Garduate Cyber Security Student @FIU👨‍💻🚀</div>  
-  
+### Hey there 👋 I am [Kavennesh](https://github.com/Kavennesh)
 
-- 🔭 I’m currently working on Figma and Linux  
-  
+---
 
-- 🌱 I’m currently learning Eithical Hacking and Crypto Mining  
-  
+### About Me
+- 🖥️ Full-time Cybersecurity student @ FIU
+- 🔐 Passionate about securing systems and ethical hacking
+- 🌱 Currently learning Offensive Security
+- 💬 Ask me about Cybersecurity, Ethical Hacking, and Crypto Mining
+- 📚 Portfolio: [kavennesh.bio](https://kavennesh.bio/)
+- ✉️ Contact : [contact@kavennesh.bio](mailto:contact@kavennesh.bio)
 
-- ❓ Ask me about anything related to Designing and Cyber technologies  
-  
+---
 
-- ⚡ Fun fact: A part time Gamer 🔫🔫  
-  
+### Tech Stack 💻
 
-<br/>  
+#### Programming Languages & Tools
+![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-FFFFFF?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker)&nbsp;
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="40%">
+#### Cybersecurity Technologies 🔐
+![Wireshark](https://img.shields.io/badge/-Wireshark-FFFFFF?style=flat&logo=wireshark)&nbsp;
+![Metasploit](https://img.shields.io/badge/-Metasploit-FFFFFF?style=flat&logo=metasploit)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-FFFFFF?style=flat&logo=kali-linux)&nbsp;
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FFFFFF?style=flat&logo=burp-suite)&nbsp;
+![Nmap](https://img.shields.io/badge/-Nmap-FFFFFF?style=flat&logo=nmap)&nbsp;
+![Snort](https://img.shields.io/badge/-Snort-FFFFFF?style=flat&logo=snort)&nbsp;
 
+---
 
+### GitHub Stats 📊
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavennesh&show_icons=true&locale=en)
 
-</td><td valign="top" width="33%">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavennesh&hide_border=true&layout=compact)
 
+---
 
+### GitHub Streaks 🔥
 
-### Backend  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavennesh&show_icons=true&locale=en)
+---
 
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="left">
-<a href="https://github.com/https://github.com/Kavennesh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavennesh-b-v-144654211/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavennesh&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Kavennesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="left">
-
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-
-</div>  
+Feel free to explore my repositories and reach out if you have any questions or need advice on cybersecurity, programming, or design! 🔍
