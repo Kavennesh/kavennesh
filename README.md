@@ -9,6 +9,7 @@
 - 💬 Ask me about Cybersecurity, Ethical Hacking, and Crypto Mining
 - 📚 Portfolio: [kavennesh.bio](https://kavennesh.bio/)
 - ✉️ Contact : [contact@kavennesh.bio](mailto:contact@kavennesh.bio)
+- ✍ linkedIn : [kavenneshbv](https://www.linkedin.com/in/kavenneshbv/)
 
 ---
 
