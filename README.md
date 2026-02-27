@@ -8,7 +8,7 @@
 - 🌱 Currently learning Offensive Security
 - 💬 Ask me about Cybersecurity, Ethical Hacking, and Crypto Mining
 - 📚 Portfolio: [kavennesh.bio](https://kavennesh.bio/)
-- ✉️ Contact : [contact@kavennesh.bio](mailto:kavenneshsec@gmail.com)
+- ✉️ Contact : [kavenneshsec@gmail.com](mailto:kavenneshsec@gmail.com)
 - ✍ linkedIn : [kavenneshbv](https://www.linkedin.com/in/kavenneshbv/)
 
 ---
