@@ -1,52 +1,84 @@
-### Hey there 👋 I am [Kavennesh](https://github.com/Kavennesh)
+# 👋 Hi, I'm Kavennesh Balachandar
+
+🎓 Master’s in Cybersecurity @ Florida International University (Spring 2026)  
+🔐 Aspiring Cybersecurity Analyst | Offensive Security Enthusiast  
+🐍 Python Automation | 🛡️ Network Security | 🔎 Threat Detection  
 
 ---
 
-### About Me
-- 🖥️ Full-time Cybersecurity student @ FIU
-- 🔐 Passionate about securing systems and ethical hacking
-- 🌱 Currently learning Offensive Security
-- 💬 Ask me about Cybersecurity, Ethical Hacking, and Crypto Mining
-- 📚 Portfolio: [kavennesh.com](https://kavennesh.com/)
-- ✉️ Contact : [kavenneshsec@gmail.com](mailto:kavenneshsec@gmail.com)
-- ✍ linkedIn : [kavenneshbv](https://www.linkedin.com/in/kavenneshbv/)
+## 🚀 About Me
+
+- 🖥️ Full-time Cybersecurity Graduate Student at FIU  
+- 🔐 Passionate about Offensive Security & Ethical Hacking  
+- 🧠 Currently preparing for eJPT & Security+  
+- 🛠️ Building automation and security tools using Python & Linux  
+- 📊 Interested in SOC Operations, Incident Response & Pentesting  
+- 🌐 Portfolio: https://kavennesh.bio  
+- 📩 Email: kavenneshsec@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/kavenneshbv  
 
 ---
 
-### Tech Stack 💻
+## 🛠️ Technical Skills
 
-#### Programming Languages & Tools
-![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-FFFFFF?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux)&nbsp;
-![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker)&nbsp;
+### 💻 Programming & Scripting
+- Python (Automation, Network Scanning Tools)
+- JavaScript (Basic Web Applications)
+- C / Java (Academic Foundations)
+- Bash Scripting
 
----
+### 🐧 Systems & DevOps
+- Linux (Kali, Debian, Ubuntu)
+- Git & GitHub
+- Docker
 
-#### Cybersecurity Technologies 🔐
-![Wireshark](https://img.shields.io/badge/-Wireshark-FFFFFF?style=flat&logo=wireshark)&nbsp;
-![Metasploit](https://img.shields.io/badge/-Metasploit-FFFFFF?style=flat&logo=metasploit)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-FFFFFF?style=flat&logo=kali-linux)&nbsp;
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FFFFFF?style=flat&logo=burp-suite)&nbsp;
-![Nmap](https://img.shields.io/badge/-Nmap-FFFFFF?style=flat&logo=nmap)&nbsp;
-![Snort](https://img.shields.io/badge/-Snort-FFFFFF?style=flat&logo=snort)&nbsp;
-
----
-
-### GitHub Stats 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavennesh&show_icons=true&locale=en)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavennesh&hide_border=true&layout=compact)
+### 🔐 Cybersecurity Tools
+- Wireshark (Packet Analysis)
+- Nmap (Network Scanning)
+- Metasploit (Exploitation Framework)
+- Burp Suite (Web Application Testing)
+- Snort (IDS)
+- TCPDump
 
 ---
 
-### GitHub Streaks 🔥
+## 🧪 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavennesh&show_icons=true&locale=en)
+### 🔹 PentestFlow  
+Linux-first, rule-based penetration testing workflow framework built in Python CLI.
+
+### 🔹 Automated Network Enumerator  
+Custom reconnaissance tool developed in Python for automated scanning and enumeration.
+
+### 🔹 VPN Monitoring & Detection System  
+Traffic analysis system to detect anomalies and suspicious VPN usage patterns.
+
+### 🔹 Debian Remote Lab Setup  
+Secure remote lab using SSH tunneling and Ngrok for penetration testing practice.
+
+---
+## 🎯 Career Objective
+
+Seeking entry-level opportunities in:
+
+- Cybersecurity Analyst  
+- SOC Analyst  
+- Network Security Analyst  
+- IT Security / Security Operations  
+
+If your team is hiring or you'd like to connect — I’d love to speak and contribute to your security mission.
+
 ---
 
-Feel free to explore my repositories and reach out if you have any questions or need advice on cybersecurity, programming, or design! 🔍
+## 🤝 Let’s Connect
+
+I enjoy collaborating on:
+
+- Security research  
+- Open-source security tools  
+- Capture The Flag challenges  
+- Lab-based offensive security projects  
+
+---
+
+⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
