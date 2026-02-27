@@ -7,7 +7,7 @@
 - 🔐 Passionate about securing systems and ethical hacking
 - 🌱 Currently learning Offensive Security
 - 💬 Ask me about Cybersecurity, Ethical Hacking, and Crypto Mining
-- 📚 Portfolio: [kavennesh.bio](https://kavennesh.bio/)
+- 📚 Portfolio: [kavennesh.com](https://kavennesh.com/)
 - ✉️ Contact : [kavenneshsec@gmail.com](mailto:kavenneshsec@gmail.com)
 - ✍ linkedIn : [kavenneshbv](https://www.linkedin.com/in/kavenneshbv/)
 
