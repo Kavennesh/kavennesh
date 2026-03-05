@@ -13,7 +13,7 @@
 - 🧠 Currently preparing for eJPT & Security+  
 - 🛠️ Building automation and security tools using Python & Linux  
 - 📊 Interested in SOC Operations, Incident Response & Pentesting  
-- 🌐 Portfolio: https://kavennesh.bio  
+- 🌐 Portfolio: https://kavennesh.com  
 - 📩 Email: kavenneshsec@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/kavenneshbv  
 
